@@ -1,0 +1,12 @@
+d:\users\shturman\downloads\visual studio 2017\Projects\WinFormFtpUploader\WinFormFtpUploader\bin\Debug\WinFormFtpUploader.exe.config
+d:\users\shturman\downloads\visual studio 2017\Projects\WinFormFtpUploader\WinFormFtpUploader\bin\Debug\WinFormFtpUploader.exe
+d:\users\shturman\downloads\visual studio 2017\Projects\WinFormFtpUploader\WinFormFtpUploader\bin\Debug\WinFormFtpUploader.pdb
+d:\users\shturman\downloads\visual studio 2017\Projects\WinFormFtpUploader\WinFormFtpUploader\obj\Debug\WinFormFtpUploader.csprojResolveAssemblyReference.cache
+d:\users\shturman\downloads\visual studio 2017\Projects\WinFormFtpUploader\WinFormFtpUploader\obj\Debug\WinFormFtpUploader.Form1.resources
+d:\users\shturman\downloads\visual studio 2017\Projects\WinFormFtpUploader\WinFormFtpUploader\obj\Debug\WinFormFtpUploader.Properties.Resources.resources
+d:\users\shturman\downloads\visual studio 2017\Projects\WinFormFtpUploader\WinFormFtpUploader\obj\Debug\WinFormFtpUploader.csproj.GenerateResource.Cache
+d:\users\shturman\downloads\visual studio 2017\Projects\WinFormFtpUploader\WinFormFtpUploader\obj\Debug\WinFormFtpUploader.exe
+d:\users\shturman\downloads\visual studio 2017\Projects\WinFormFtpUploader\WinFormFtpUploader\obj\Debug\WinFormFtpUploader.pdb
+E:\Защита сетевых информационных технологий\doc3\WinFormFtpUploader\WinFormFtpUploader\bin\Debug\WinFormFtpUploader.exe.config
+E:\Защита сетевых информационных технологий\doc3\WinFormFtpUploader\WinFormFtpUploader\obj\Debug\WinFormFtpUploader.exe
+E:\Защита сетевых информационных технологий\doc3\WinFormFtpUploader\WinFormFtpUploader\obj\Debug\WinFormFtpUploader.pdb

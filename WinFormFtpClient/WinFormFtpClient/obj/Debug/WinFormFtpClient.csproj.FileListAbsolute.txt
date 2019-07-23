@@ -1,0 +1,13 @@
+e:\documents\visual studio 2015\Projects\WinFormFtpClient\WinFormFtpClient\bin\Debug\WinFormFtpClient.exe.config
+D:\Users\Shturman\Downloads\Visual Studio 2015\Projects\WinFormFtpClient\WinFormFtpClient\bin\Debug\WinFormFtpClient.exe.config
+D:\Users\Shturman\Downloads\Visual Studio 2015\Projects\WinFormFtpClient\WinFormFtpClient\bin\Debug\WinFormFtpClient.exe
+D:\Users\Shturman\Downloads\Visual Studio 2015\Projects\WinFormFtpClient\WinFormFtpClient\bin\Debug\WinFormFtpClient.pdb
+D:\Users\Shturman\Downloads\Visual Studio 2015\Projects\WinFormFtpClient\WinFormFtpClient\obj\Debug\WinFormFtpClient.csprojResolveAssemblyReference.cache
+D:\Users\Shturman\Downloads\Visual Studio 2015\Projects\WinFormFtpClient\WinFormFtpClient\obj\Debug\WinFormFtpClient.Form1.resources
+D:\Users\Shturman\Downloads\Visual Studio 2015\Projects\WinFormFtpClient\WinFormFtpClient\obj\Debug\WinFormFtpClient.Properties.Resources.resources
+D:\Users\Shturman\Downloads\Visual Studio 2015\Projects\WinFormFtpClient\WinFormFtpClient\obj\Debug\WinFormFtpClient.csproj.GenerateResource.Cache
+D:\Users\Shturman\Downloads\Visual Studio 2015\Projects\WinFormFtpClient\WinFormFtpClient\obj\Debug\WinFormFtpClient.exe
+D:\Users\Shturman\Downloads\Visual Studio 2015\Projects\WinFormFtpClient\WinFormFtpClient\obj\Debug\WinFormFtpClient.pdb
+E:\Защита сетевых информационных технологий\doc3\WinFormFtpClient\WinFormFtpClient\bin\Debug\WinFormFtpClient.exe.config
+E:\Защита сетевых информационных технологий\doc3\WinFormFtpClient\WinFormFtpClient\obj\Debug\WinFormFtpClient.exe
+E:\Защита сетевых информационных технологий\doc3\WinFormFtpClient\WinFormFtpClient\obj\Debug\WinFormFtpClient.pdb
